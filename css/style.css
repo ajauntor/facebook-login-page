@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    text-decoration: none;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+.login-start{
+    padding-top: 120px;
+}
