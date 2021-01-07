@@ -122,3 +122,9 @@ body{
 footer:hover{
     color: dodgerblue;
 }
+.link-up{
+    color: grey;
+}
+.link-up:hover{
+    color: rgb(133, 204, 27);
+}
