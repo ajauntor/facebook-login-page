@@ -115,8 +115,9 @@ body{
     height: 27px;
     text-align: center;
     margin-top: 155px;
-    font-weight: 600;
+    font-weight: ;
     color: rgb(121, 117, 117);
+    font-size: 14px;
     
 }
 footer:hover{
@@ -126,5 +127,5 @@ footer:hover{
     color: grey;
 }
 .link-up:hover{
-    color: rgb(133, 204, 27);
+    color: rgb(64, 187, 16);
 }
