@@ -111,3 +111,14 @@ body{
 .aas a:hover{
     text-decoration: underline;
 }
+.right-aj{
+    height: 27px;
+    text-align: center;
+    margin-top: 155px;
+    font-weight: 600;
+    color: rgb(121, 117, 117);
+    
+}
+footer:hover{
+    color: dodgerblue;
+}
