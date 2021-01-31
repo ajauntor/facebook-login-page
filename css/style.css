@@ -145,5 +145,22 @@ footer:hover{
     .aas {
         padding-top: 40px;
     }
+    .login-start {
+        padding-top: 33px;
+    }
+    .contain-right form {
+        padding: 15px;
+        width: 350px;
+        height: 318px;
+    }
+    .right-aj {
+        height: 24px;
+        text-align: center;
+        margin-top: 40px;
+        font-weight: ;
+        color: rgb(121, 117, 117);
+        font-size: 11px;
+    }
+
 
 }
